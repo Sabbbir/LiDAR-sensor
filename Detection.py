@@ -10,6 +10,9 @@ class Detection:
             result = us.detection()
             print(result)
             time.sleep(0.1)
+    # def distance_data(self):
+    #     rr = us.data()
+    #     print(rr)
 
 # Example usage:
 if __name__ == "__main__":
